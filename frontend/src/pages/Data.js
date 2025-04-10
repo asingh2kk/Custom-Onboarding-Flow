@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React, {useState, useEffect} from 'react';
 import {Container, Paper, Typography, Table, TableHead, TableRow, TableCell, TableBody, Button, Box} from '@mui/material';
 
 function Data() {
